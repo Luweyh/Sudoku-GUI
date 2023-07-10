@@ -19,4 +19,4 @@ verify if user input is correct.
 
 Sudoku rules:
 - Goal is to finish the board with every single row and column have distinct numbers 1 - 9. In addition,
-each 3x3 squares should also have distincy numbers 1-9. Once all squares are finished, 
+each 3x3 squares should also have distincy numbers 1-9. Once all squares are finished, you win!
